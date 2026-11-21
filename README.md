@@ -129,29 +129,6 @@ Year| Year of arrival
 
 ---
 
-📂 Repository Structure
-
-SriLanka-Tourism-Analytics/
-│
-├── 01_Dataset/
-│   └── Raw_Data/
-│
-├── 02_Excel/
-│
-├── 03_SQL/
-│
-├── 04_Python/
-│
-├── 05_PowerBI/
-│
-├── 06_Reports/
-│
-├── 07_Video/
-│
-└── README.md
-
----
-
 💡 Key Learning Outcomes
 
 - ✅ Practical experience in End-to-End Data Analytics.
