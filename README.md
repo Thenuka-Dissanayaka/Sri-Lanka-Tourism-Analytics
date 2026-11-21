@@ -1,4 +1,4 @@
-🇱🇰 Sri Lanka Tourism Analytics (2018–2025)
+<h2>Sri Lanka Tourism Analytics (2018–2025)</h2>
 
 <h3 align="center">📊 End-to-End Data Analytics Project</h3><p align="center">
   <b>Excel | SQL Server | Python | Power BI</b>
@@ -146,9 +146,10 @@ SriLanka-Tourism-Analytics/
 │
 ├── 06_Reports/
 │
-├── 07_Screenshots/
+├── 07_Video/
 │
-├── 07_Video
+└── README.md
+
 ---
 
 💡 Key Learning Outcomes
