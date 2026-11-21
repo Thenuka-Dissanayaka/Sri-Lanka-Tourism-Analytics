@@ -1,4 +1,4 @@
-🇱🇰 Sri Lanka Tourism Analytics (2018–2025)
+Sri Lanka Tourism Analytics (2018–2025)
 
 End-to-End Data Analytics Project | Excel • SQL Server • Python • Power BI
 
